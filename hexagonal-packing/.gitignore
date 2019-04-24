@@ -1,0 +1,4 @@
+# Don't track content of these folders
+
+.atom-live-server.json
+.DS_Store
